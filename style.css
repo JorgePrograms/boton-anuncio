@@ -39,6 +39,7 @@ body{
 	position: absolute;
 	top:60px;
 	left: 48%;
-	
-	
+}
+.close {
+  cursor: pointer;
 }
